@@ -30,6 +30,9 @@ manpac updates mirrors, upgrades Arch, and reports status to Telegram.
 * Clone the repository:
    * ```shell
       git clone https://github.com/iniridwanul/manpac.git
+      ```
+* Navigate to the manpac directory:
+   * ```shell
       cd manpac
       ```
 * Make the script executable:
