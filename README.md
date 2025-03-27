@@ -1,4 +1,13 @@
-## manpac
+<p align="center">
+<a href="https://github.com/iniridwanul/manpac"><img src="https://raw.githubusercontent.com/iniridwanul/manpac/refs/heads/master/assets/manpac.png" height="128" width="128" alt="manpac"/></a>
+</p>
+
+<p align="center">
+<b>manpac</b><br/>
+manpac updates mirrors, upgrades Arch, and reports status to Telegram.
+</p>
+
+## About manpac
 **manpac** is a smart automation script for Arch Linux that updates the mirrorlist, upgrades system packages, and sends system status reports, including date and time, to a specified Telegram chat.
 
 ## Features
